@@ -7,7 +7,7 @@ const Navbar = () => {
   
 
   return (
-    <nav className="w-full  backdrop-blur-sm py-4 px-8  ">
+    <nav className="w-full  sm:fixed backdrop-blur-sm py-4 px-8  ">
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <h1 className="text-white text-4xl font-bold underline">Mona</h1>
         <div className="md:hidden">
